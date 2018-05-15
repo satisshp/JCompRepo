@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/color.css">
     <link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/demo/demo.css">
    
- <title>Basic CRUD Application - jQuery EasyUI CRUD Demo</title>
+ <title>shared Basic CRUD Application - jQuery EasyUI CRUD Demo</title>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="https://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
 
